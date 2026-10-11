@@ -16,7 +16,3 @@ require (
 	github.com/storage-lock/go-utils v0.0.2 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 )
-
-replace github.com/storage-lock/go-events => ../go-events
-
-replace github.com/storage-lock/go-storage => ../go-storage
