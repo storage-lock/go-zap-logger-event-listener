@@ -1,6 +1,6 @@
 module github.com/storage-lock/go-zap-logger-event-listener
 
-go 1.19
+go 1.23
 
 require (
 	github.com/storage-lock/go-events v0.0.3
@@ -16,3 +16,7 @@ require (
 	github.com/storage-lock/go-utils v0.0.2 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 )
+
+replace github.com/storage-lock/go-events => ../go-events
+
+replace github.com/storage-lock/go-storage => ../go-storage
