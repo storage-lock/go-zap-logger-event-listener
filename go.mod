@@ -12,7 +12,7 @@ require (
 	github.com/golang-infrastructure/go-pointer v0.0.5 // indirect
 	github.com/golang-infrastructure/go-reflect-utils v0.0.0-20221130143747-965ef2eb09c3 // indirect
 	github.com/google/uuid v1.3.1 // indirect
-	github.com/storage-lock/go-storage v0.0.3 // indirect
+	github.com/storage-lock/go-storage v0.1.0 // indirect
 	github.com/storage-lock/go-utils v0.0.2 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 )
